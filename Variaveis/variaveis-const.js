@@ -1,3 +1,5 @@
+// criar uma variavel e guardar um string
+
 let primeiroNome = "Beatriz";
 
 console.log(primeiroNome);
