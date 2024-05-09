@@ -1,10 +1,8 @@
-let idade = 22;
-console.log (idade);
+var idade = 22;
+var alturaEmmetros = 1.60;
 
-
-// camelCase
-let alturaEmmetros = 1.60;
+console.log(idade);
 console.log(alturaEmmetros);
 
-//string  templane
-console.log('Minha idade é ${idade} anos e minha altura é ${alturaEmmetros} metros');
+// Usando template string com crase (`)
+console.log(`Minha idade é ${idade} anos e minha altura é ${alturaEmmetros} metros`);
